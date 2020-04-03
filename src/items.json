@@ -1,0 +1,1233 @@
+{
+  "axe": {
+    "href": "https://dontstarve.fandom.com/wiki/Axe",
+    "req": 0,
+    "materials": {
+      "twigs": 1,
+      "flint": 1
+    }
+  },
+  "pickaxe": {
+    "href": "https://dontstarve.fandom.com/wiki/Pickaxe",
+    "req": 0,
+    "materials": {
+      "twigs": 2,
+      "flint": 2
+    }
+  },
+  "shovel": {
+    "href": "https://dontstarve.fandom.com/wiki/Shovel",
+    "req": 1,
+    "materials": {
+      "twigs": 2,
+      "flint": 2
+    }
+  },
+  "hammer": {
+    "href": "https://dontstarve.fandom.com/wiki/Hammer",
+    "req": 1,
+    "materials": {
+      "twigs": 3,
+      "rocks": 3,
+      "rope": 2
+    }
+  },
+  "pitchfork": {
+    "href": "https://dontstarve.fandom.com/wiki/Pitchfork",
+    "req": 1,
+    "materials": {
+      "twigs": 2,
+      "flint": 2
+    }
+  },
+  "razor": {
+    "href": "https://dontstarve.fandom.com/wiki/Razor",
+    "req": 1,
+    "materials": {
+      "twigs": 2,
+      "flint": 2
+    }
+  },
+  "feather pencil": {
+    "href": "https://dontstarve.fandom.com/wiki/Feather_Pencil",
+    "req": 1,
+    "materials": {
+      "charcoal": 1,
+      "jet feather": 1,
+      "twigs": 1
+    }
+  },
+  "luxury axe": {
+    "href": "https://dontstarve.fandom.com/wiki/Luxury_Axe",
+    "req": 2,
+    "materials": {
+      "twigs": 1,
+      "flint": 1
+    }
+  },
+  "regal shovel": {
+    "href": "https://dontstarve.fandom.com/wiki/Regal_Shovel",
+    "req": 2,
+    "materials": {
+      "twigs": 2,
+      "flint": 2
+    }
+  },
+  "opulent pickaxe": {
+    "href": "https://dontstarve.fandom.com/wiki/Opulent_Pickaxe",
+    "req": 2,
+    "materials": {
+      "twigs": 2,
+      "flint": 2
+    }
+  },
+  "saddlehorn": {
+    "href": "https://dontstarve.fandom.com/wiki/Saddlehorn",
+    "req": 2,
+    "materials": {
+      "twigs": 2,
+      "bone shards": 2,
+      "jet feather": 1
+    }
+  },
+  "saddle": {
+    "href": "https://dontstarve.fandom.com/wiki/Saddle",
+    "req": 2,
+    "materials": {
+      "beefalo wool": 4,
+      "pig skin": 4,
+      "gold nugget": 4
+    }
+  },
+  "war saddle": {
+    "href": "https://dontstarve.fandom.com/wiki/War_Saddle",
+    "req": 2,
+    "materials": {
+      "beefalo wool": 4,
+      "pig skin": 4,
+      "gold nugget": 4
+    }
+  },
+  "glossamer saddle": {
+    "href": "https://dontstarve.fandom.com/wiki/Glossamer_Saddle",
+    "req": 2,
+    "materials": {
+      "beefalo wool": 4,
+      "pig skin": 4,
+      "gold nugget": 4
+    }
+  },
+  "brush": {
+    "href": "https://dontstarve.fandom.com/wiki/Brush",
+    "req": 2,
+    "materials": {
+      "steel wool": 1,
+      "walrus tusk": 1,
+      "gold nugget": 2
+    }
+  },
+  "salt lick": {
+    "href": "https://dontstarve.fandom.com/wiki/Salt_Lick",
+    "req": 2,
+    "materials": {
+      "boards": 2,
+      "nitre": 4
+    }
+  },
+  "campfire": {
+    "href": "https://dontstarve.fandom.com/wiki/Campfire",
+    "req": 0,
+    "materials": {
+      "log": 2,
+      "cut grass": 3
+    }
+  },
+  "fire pit": {
+    "href": "https://dontstarve.fandom.com/wiki/Fire_Pit",
+    "req": 0,
+    "materials": {
+      "log": 2,
+      "cut grass": 3
+    }
+  },
+  "torch": {
+    "href": "https://dontstarve.fandom.com/wiki/Torch",
+    "req": 0,
+    "materials": {
+      "cut grass": 2,
+      "twigs": 2
+    }
+  },
+  "miner hat": {
+    "href": "https://dontstarve.fandom.com/wiki/Miner_Hat",
+    "req": 2,
+    "materials": {
+      "straw hat": 1,
+      "gold nugget": 1,
+      "fireflies": 1
+    }
+  },
+  "pumpkin lantern": {
+    "href": "https://dontstarve.fandom.com/wiki/Pumpkin_Lantern",
+    "req": 2,
+    "materials": {
+      "pumpkin": 1,
+      "fireflies": 1
+    }
+  },
+  "lantern": {
+    "href": "https://dontstarve.fandom.com/wiki/Lantern",
+    "req": 2,
+    "materials": {
+      "light bulb": 2,
+      "twigs": 3,
+      "rope": 2
+    }
+  },
+  "trap": {
+    "href": "https://dontstarve.fandom.com/wiki/Trap",
+    "req": 0,
+    "materials": {
+      "cut grass": 6,
+      "twigs": 2
+    }
+  },
+  "pretty parasol": {
+    "href": "https://dontstarve.fandom.com/wiki/Pretty_Parasol",
+    "req": 0,
+    "materials": {
+      "twigs": 4,
+      "cut grass": 3,
+      "petals": 6
+    }
+  },
+  "bundling wrap": {
+    "href": "https://dontstarve.fandom.com/wiki/Bundling_Wrap",
+    "req": 0,
+    "materials": {
+      "wax paper": 1,
+      "rope": 1
+    }
+  },
+  "bird trap": {
+    "href": "https://dontstarve.fandom.com/wiki/Bird_Trap",
+    "req": 1,
+    "materials": {
+      "twigs": 3,
+      "silk": 4
+    }
+  },
+  "compass": {
+    "href": "https://dontstarve.fandom.com/wiki/Compass",
+    "req": 1,
+    "materials": {
+      "gold nugget": 1,
+      "papyrus": 1
+    }
+  },
+  "backpack": {
+    "href": "https://dontstarve.fandom.com/wiki/Backpack",
+    "req": 1,
+    "materials": {
+      "cut grass": 4,
+      "twigs": 4
+    }
+  },
+  "healing salve": {
+    "href": "https://dontstarve.fandom.com/wiki/Healing_Salve",
+    "req": 1,
+    "materials": {
+      "ashes": 2,
+      "rocks": 1,
+      "spider gland": 1
+    }
+  },
+  "straw roll": {
+    "href": "https://dontstarve.fandom.com/wiki/Straw_Roll",
+    "req": 1,
+    "materials": {
+      "cut grass": 6,
+      "rope": 1
+    }
+  },
+  "umbrella": {
+    "href": "https://dontstarve.fandom.com/wiki/Umbrella",
+    "req": 1,
+    "materials": {
+      "twigs": 6,
+      "pig skin": 1,
+      "silk": 2
+    }
+  },
+  "bug net": {
+    "href": "https://dontstarve.fandom.com/wiki/Bug_Net",
+    "req": 1,
+    "materials": {
+      "twigs": 4,
+      "silk": 2,
+      "rope": 1
+    }
+  },
+  "fishing rod": {
+    "href": "https://dontstarve.fandom.com/wiki/Fishing_Rod",
+    "req": 1,
+    "materials": {
+      "twigs": 2,
+      "silk": 2
+    }
+  },
+  "piggyback": {
+    "href": "https://dontstarve.fandom.com/wiki/Piggyback",
+    "req": 2,
+    "materials": {
+      "pig skin": 4,
+      "silk": 6,
+      "rope": 2
+    }
+  },
+  "honey poultice": {
+    "href": "https://dontstarve.fandom.com/wiki/Honey_Poultice",
+    "req": 2,
+    "materials": {
+      "papyrus": 1,
+      "honey": 2
+    }
+  },
+  "fur roll": {
+    "href": "https://dontstarve.fandom.com/wiki/Fur_Roll",
+    "req": 2,
+    "materials": {
+      "cut grass": 6,
+      "rope": 1
+    }
+  },
+  "tent": {
+    "href": "https://dontstarve.fandom.com/wiki/Tent",
+    "req": 2,
+    "materials": {
+      "silk": 6,
+      "twigs": 4,
+      "rope": 3
+    }
+  },
+  "thermal stone": {
+    "href": "https://dontstarve.fandom.com/wiki/Thermal_Stone",
+    "req": 2,
+    "materials": {
+      "rocks": 10,
+      "pickaxe": 1,
+      "flint": 3
+    }
+  },
+  "basic farm": {
+    "href": "https://dontstarve.fandom.com/wiki/Basic_Farm",
+    "req": 1,
+    "materials": {
+      "cut grass": 8,
+      "manure": 4,
+      "log": 4
+    }
+  },
+  "bee box": {
+    "href": "https://dontstarve.fandom.com/wiki/Bee_Box",
+    "req": 1,
+    "materials": {
+      "boards": 2,
+      "honeycomb": 1,
+      "bee": 4
+    }
+  },
+  "drying rack": {
+    "href": "https://dontstarve.fandom.com/wiki/Drying_Rack",
+    "req": 1,
+    "materials": {
+      "twigs": 3,
+      "charcoal": 2,
+      "rope": 3
+    }
+  },
+  "crock pot": {
+    "href": "https://dontstarve.fandom.com/wiki/Crock_Pot",
+    "req": 1,
+    "materials": {
+      "cut stone": 3,
+      "charcoal": 6,
+      "twigs": 6
+    }
+  },
+  "improved farm": {
+    "href": "https://dontstarve.fandom.com/wiki/Improved_Farm",
+    "req": 2,
+    "materials": {
+      "cut grass": 8,
+      "manure": 4,
+      "log": 4
+    }
+  },
+  "ice box": {
+    "href": "https://dontstarve.fandom.com/wiki/Ice_Box",
+    "req": 2,
+    "materials": {
+      "boards": 1,
+      "gears": 1,
+      "gold nugget": 2
+    }
+  },
+  "science machine": {
+    "href": "https://dontstarve.fandom.com/wiki/Science_Machine",
+    "req": 0,
+    "materials": {
+      "gold nugget": 1,
+      "log": 4,
+      "rocks": 4
+    }
+  },
+  "alchemy engine": {
+    "href": "https://dontstarve.fandom.com/wiki/Alchemy_Engine",
+    "req": 1,
+    "materials": {
+      "boards": 4,
+      "cut stone": 2,
+      "gold nugget": 6
+    }
+  },
+  "thermal measurer": {
+    "href": "https://dontstarve.fandom.com/wiki/Thermal_Measurer",
+    "req": 1,
+    "materials": {
+      "boards": 2,
+      "gold nugget": 2
+    }
+  },
+  "rainometer": {
+    "href": "https://dontstarve.fandom.com/wiki/Rainometer",
+    "req": 1,
+    "materials": {
+      "boards": 2,
+      "gold nugget": 2,
+      "rope": 2
+    }
+  },
+  "lightning rod": {
+    "href": "https://dontstarve.fandom.com/wiki/Lightning_Rod",
+    "req": 1,
+    "materials": {
+      "gold nugget": 3,
+      "cut stone": 1
+    }
+  },
+  "divining rod": {
+    "href": "https://dontstarve.fandom.com/wiki/Divining_Rod",
+    "req": 2,
+    "materials": {
+      "twigs": 1,
+      "nightmare fuel": 4,
+      "gears": 1
+    }
+  },
+  "gunpowder": {
+    "href": "https://dontstarve.fandom.com/wiki/Gunpowder",
+    "req": 2,
+    "materials": {
+      "rotten egg": 1,
+      "charcoal": 1,
+      "nitre": 1
+    }
+  },
+  "accomploshrine": {
+    "href": "https://dontstarve.fandom.com/wiki/Accomploshrine",
+    "req": 2,
+    "materials": {
+      "gold nugget": 10,
+      "cut stone": 1,
+      "gears": 6
+    }
+  },
+  "grass suit": {
+    "href": "https://dontstarve.fandom.com/wiki/Grass_Suit",
+    "req": 0,
+    "materials": {
+      "cut grass": 10,
+      "twigs": 2
+    }
+  },
+  "spear": {
+    "href": "https://dontstarve.fandom.com/wiki/Spear",
+    "req": 1,
+    "materials": {
+      "twigs": 2,
+      "rope": 1,
+      "flint": 1
+    }
+  },
+  "log suit": {
+    "href": "https://dontstarve.fandom.com/wiki/Log_Suit",
+    "req": 1,
+    "materials": {
+      "log": 8,
+      "rope": 2
+    }
+  },
+  "bee mine": {
+    "href": "https://dontstarve.fandom.com/wiki/Bee_Mine",
+    "req": 1,
+    "materials": {
+      "boards": 1,
+      "bee": 4,
+      "flint": 1
+    }
+  },
+  "sleep dart": {
+    "href": "https://dontstarve.fandom.com/wiki/Sleep_Dart",
+    "req": 1,
+    "materials": {
+      "cut reeds": 2,
+      "hound's tooth": 1,
+      "azure feather": 1
+    }
+  },
+  "fire dart": {
+    "href": "https://dontstarve.fandom.com/wiki/Fire_Dart",
+    "req": 1,
+    "materials": {
+      "cut reeds": 2,
+      "hound's tooth": 1,
+      "azure feather": 1
+    }
+  },
+  "blow dart": {
+    "href": "https://dontstarve.fandom.com/wiki/Blow_Dart",
+    "req": 1,
+    "materials": {
+      "cut reeds": 2,
+      "hound's tooth": 1,
+      "azure feather": 1
+    }
+  },
+  "ham bat": {
+    "href": "https://dontstarve.fandom.com/wiki/Ham_Bat",
+    "req": 2,
+    "materials": {
+      "pig skin": 1,
+      "twigs": 2,
+      "meat": 2
+    }
+  },
+  "marble suit": {
+    "href": "https://dontstarve.fandom.com/wiki/Marble_Suit",
+    "req": 2,
+    "materials": {
+      "marble": 12,
+      "rope": 4
+    }
+  },
+  "football helmet": {
+    "href": "https://dontstarve.fandom.com/wiki/Football_Helmet",
+    "req": 2,
+    "materials": {
+      "pig skin": 1,
+      "rope": 1
+    }
+  },
+  "boomerang": {
+    "href": "https://dontstarve.fandom.com/wiki/Boomerang",
+    "req": 2,
+    "materials": {
+      "boards": 1,
+      "silk": 1,
+      "charcoal": 1
+    }
+  },
+  "tooth trap": {
+    "href": "https://dontstarve.fandom.com/wiki/Tooth_Trap",
+    "req": 2,
+    "materials": {
+      "log": 1,
+      "rope": 1,
+      "hound's tooth": 1
+    }
+  },
+  "chest": {
+    "href": "https://dontstarve.fandom.com/wiki/Chest",
+    "req": 1,
+    "materials": {
+      "boards": 3
+    }
+  },
+  "sign": {
+    "href": "https://dontstarve.fandom.com/wiki/Sign",
+    "req": 1,
+    "materials": {
+      "boards": 1
+    }
+  },
+  "mini sign": {
+    "href": "https://dontstarve.fandom.com/wiki/Mini_Sign",
+    "req": 1,
+    "materials": {
+      "boards": 1
+    }
+  },
+  "wood fence": {
+    "href": "https://dontstarve.fandom.com/wiki/Wood_Fence",
+    "req": 1,
+    "materials": {
+      "twigs": 3,
+      "rope": 1
+    }
+  },
+  "hay wall": {
+    "href": "https://dontstarve.fandom.com/wiki/Hay_Wall",
+    "req": 1,
+    "materials": {
+      "cut grass": 4,
+      "twigs": 2
+    }
+  },
+  "wood wall": {
+    "href": "https://dontstarve.fandom.com/wiki/Wood_Wall",
+    "req": 1,
+    "materials": {
+      "cut grass": 4,
+      "twigs": 2
+    }
+  },
+  "wood gate": {
+    "href": "https://dontstarve.fandom.com/wiki/Wood_Gate",
+    "req": 2,
+    "materials": {
+      "boards": 2,
+      "rope": 1
+    }
+  },
+  "stone wall": {
+    "href": "https://dontstarve.fandom.com/wiki/Stone_Wall",
+    "req": 2,
+    "materials": {
+      "cut grass": 4,
+      "twigs": 2
+    }
+  },
+  "pig house": {
+    "href": "https://dontstarve.fandom.com/wiki/Pig_House",
+    "req": 2,
+    "materials": {
+      "boards": 4,
+      "cut stone": 3,
+      "pig skin": 4
+    }
+  },
+  "rabbit hutch": {
+    "href": "https://dontstarve.fandom.com/wiki/Rabbit_Hutch",
+    "req": 2,
+    "materials": {
+      "boards": 4,
+      "carrot": 10,
+      "bunny puff": 4
+    }
+  },
+  "birdcage": {
+    "href": "https://dontstarve.fandom.com/wiki/Birdcage",
+    "req": 2,
+    "materials": {
+      "papyrus": 2,
+      "gold nugget": 6,
+      "seeds": 2
+    }
+  },
+  "cobblestones": {
+    "href": "https://dontstarve.fandom.com/wiki/Cobblestones",
+    "req": 2,
+    "materials": {
+      "rocky turf": 1,
+      "boards": 1
+    }
+  },
+  "wooden flooring": {
+    "href": "https://dontstarve.fandom.com/wiki/Wooden_Flooring",
+    "req": 2,
+    "materials": {
+      "boards": 1
+    }
+  },
+  "carpeted flooring": {
+    "href": "https://dontstarve.fandom.com/wiki/Carpeted_Flooring",
+    "req": 2,
+    "materials": {
+      "boards": 1,
+      "beefalo wool": 1
+    }
+  },
+  "checkerboard flooring": {
+    "href": "https://dontstarve.fandom.com/wiki/Checkerboard_Flooring",
+    "req": 2,
+    "materials": {
+      "marble": 1
+    }
+  },
+  "potted fern": {
+    "href": "https://dontstarve.fandom.com/wiki/Potted_Fern",
+    "req": 2,
+    "materials": {
+      "foliage": 5,
+      "broken shell": 1
+    }
+  },
+  "rope": {
+    "href": "https://dontstarve.fandom.com/wiki/Rope",
+    "req": 1,
+    "materials": {
+      "cut grass": 3
+    }
+  },
+  "boards": {
+    "href": "https://dontstarve.fandom.com/wiki/Boards",
+    "req": 1,
+    "materials": {
+      "log": 4
+    }
+  },
+  "cut stone": {
+    "href": "https://dontstarve.fandom.com/wiki/Cut_Stone",
+    "req": 1,
+    "materials": {
+      "rocks": 3
+    }
+  },
+  "papyrus": {
+    "href": "https://dontstarve.fandom.com/wiki/Papyrus",
+    "req": 1,
+    "materials": {
+      "cut reeds": 4
+    }
+  },
+  "beeswax": {
+    "href": "https://dontstarve.fandom.com/wiki/Beeswax",
+    "req": 1,
+    "materials": {
+      "honeycomb": 1
+    }
+  },
+  "wax paper": {
+    "href": "https://dontstarve.fandom.com/wiki/Wax_Paper",
+    "req": 1,
+    "materials": {
+      "beeswax": 1,
+      "papyrus": 1
+    }
+  },
+  "purple gem": {
+    "href": "https://dontstarve.fandom.com/wiki/Purple_Gem",
+    "req": 3,
+    "materials": {
+      "red gem": 1,
+      "blue gem": 1
+    }
+  },
+  "nightmare fuel": {
+    "href": "https://dontstarve.fandom.com/wiki/Nightmare_Fuel",
+    "req": 3,
+    "materials": {
+      "dark petals": 4
+    }
+  },
+  "prestihatitator": {
+    "href": "https://dontstarve.fandom.com/wiki/Prestihatitator",
+    "req": 1,
+    "materials": {
+      "rabbit": 4,
+      "boards": 4,
+      "top hat": 1
+    }
+  },
+  "shadow manipulator": {
+    "href": "https://dontstarve.fandom.com/wiki/Shadow_Manipulator",
+    "req": 3,
+    "materials": {
+      "living log": 3,
+      "purple gem": 1,
+      "nightmare fuel": 7
+    }
+  },
+  "meat effigy": {
+    "href": "https://dontstarve.fandom.com/wiki/Meat_Effigy",
+    "req": 3,
+    "materials": {
+      "boards": 4,
+      "cooked meat": 4,
+      "beard hair": 4
+    }
+  },
+  "pan flute": {
+    "href": "https://dontstarve.fandom.com/wiki/Pan_Flute",
+    "req": 3,
+    "materials": {
+      "cut reeds": 5,
+      "mandrake (item)": 1,
+      "rope": 1
+    }
+  },
+  "one-man band": {
+    "href": "https://dontstarve.fandom.com/wiki/One-man_Band",
+    "req": 3,
+    "materials": {
+      "gold nugget": 2,
+      "nightmare fuel": 4,
+      "pig skin": 2
+    }
+  },
+  "night light": {
+    "href": "https://dontstarve.fandom.com/wiki/Night_Light",
+    "req": 3,
+    "materials": {
+      "gold nugget": 8,
+      "nightmare fuel": 2,
+      "red gem": 1
+    }
+  },
+  "life giving amulet": {
+    "href": "https://dontstarve.fandom.com/wiki/Life_Giving_Amulet",
+    "req": 3,
+    "materials": {
+      "gold nugget": 3,
+      "nightmare fuel": 2,
+      "red gem": 1
+    }
+  },
+  "chilled amulet": {
+    "href": "https://dontstarve.fandom.com/wiki/Chilled_Amulet",
+    "req": 3,
+    "materials": {
+      "gold nugget": 3,
+      "blue gem": 1
+    }
+  },
+  "ice staff": {
+    "href": "https://dontstarve.fandom.com/wiki/Ice_Staff",
+    "req": 3,
+    "materials": {
+      "spear": 1,
+      "blue gem": 1
+    }
+  },
+  "dark sword": {
+    "href": "https://dontstarve.fandom.com/wiki/Dark_Sword",
+    "req": 4,
+    "materials": {
+      "nightmare fuel": 5,
+      "living log": 1
+    }
+  },
+  "night armor": {
+    "href": "https://dontstarve.fandom.com/wiki/Night_Armor",
+    "req": 4,
+    "materials": {
+      "nightmare fuel": 5,
+      "papyrus": 3
+    }
+  },
+  "bat bat": {
+    "href": "https://dontstarve.fandom.com/wiki/Bat_Bat",
+    "req": 4,
+    "materials": {
+      "batilisk wing": 5,
+      "living log": 2,
+      "purple gem": 1
+    }
+  },
+  "fire staff": {
+    "href": "https://dontstarve.fandom.com/wiki/Fire_Staff",
+    "req": 4,
+    "materials": {
+      "nightmare fuel": 2,
+      "spear": 1,
+      "red gem": 1
+    }
+  },
+  "telelocator staff": {
+    "href": "https://dontstarve.fandom.com/wiki/Telelocator_Staff",
+    "req": 4,
+    "materials": {
+      "nightmare fuel": 4,
+      "living log": 2,
+      "purple gem": 2
+    }
+  },
+  "telelocator focus": {
+    "href": "https://dontstarve.fandom.com/wiki/Telelocator_Focus",
+    "req": 4,
+    "materials": {
+      "nightmare fuel": 4,
+      "living log": 4,
+      "gold nugget": 8
+    }
+  },
+  "nightmare amulet": {
+    "href": "https://dontstarve.fandom.com/wiki/Nightmare_Amulet",
+    "req": 4,
+    "materials": {
+      "gold nugget": 6,
+      "nightmare fuel": 4,
+      "purple gem": 2
+    }
+  },
+  "belt of hunger": {
+    "href": "https://dontstarve.fandom.com/wiki/Belt_of_Hunger",
+    "req": 4,
+    "materials": {
+      "slurper pelt": 6,
+      "rope": 2,
+      "nightmare fuel": 2
+    }
+  },
+  "seaworthy": {
+    "href": "https://dontstarve.fandom.com/wiki/Seaworthy",
+    "req": 4,
+    "materials": {
+      "sea worther": 1,
+      "nightmare fuel": 4,
+      "living log": 4
+    }
+  },
+  "skyworthy": {
+    "href": "https://dontstarve.fandom.com/wiki/Skyworthy",
+    "req": 4,
+    "materials": {
+      "nightmare fuel": 4,
+      "living log": 4,
+      "can of silly string": 1
+    }
+  },
+  "garland": {
+    "href": "https://dontstarve.fandom.com/wiki/Garland",
+    "req": 0,
+    "materials": {
+      "petals": 12
+    }
+  },
+  "rabbit earmuffs": {
+    "href": "https://dontstarve.fandom.com/wiki/Rabbit_Earmuffs",
+    "req": 1,
+    "materials": {
+      "rabbit": 2,
+      "twigs": 1
+    }
+  },
+  "straw hat": {
+    "href": "https://dontstarve.fandom.com/wiki/Straw_Hat",
+    "req": 1,
+    "materials": {
+      "cut grass": 12
+    }
+  },
+  "beefalo hat": {
+    "href": "https://dontstarve.fandom.com/wiki/Beefalo_Hat",
+    "req": 1,
+    "materials": {
+      "beefalo wool": 8,
+      "beefalo horn": 1
+    }
+  },
+  "top hat": {
+    "href": "https://dontstarve.fandom.com/wiki/Top_Hat",
+    "req": 1,
+    "materials": {
+      "silk": 6
+    }
+  },
+  "sewing kit": {
+    "href": "https://dontstarve.fandom.com/wiki/Sewing_Kit",
+    "req": 2,
+    "materials": {
+      "log": 1,
+      "silk": 8,
+      "hound's tooth": 2
+    }
+  },
+  "beekeeper hat": {
+    "href": "https://dontstarve.fandom.com/wiki/Beekeeper_Hat",
+    "req": 2,
+    "materials": {
+      "silk": 8,
+      "rope": 1
+    }
+  },
+  "feather hat": {
+    "href": "https://dontstarve.fandom.com/wiki/Feather_Hat",
+    "req": 2,
+    "materials": {
+      "jet feather": 3,
+      "crimson feather": 2,
+      "tentacle spots": 2
+    }
+  },
+  "bush hat": {
+    "href": "https://dontstarve.fandom.com/wiki/Bush_Hat",
+    "req": 2,
+    "materials": {
+      "straw hat": 1,
+      "rope": 1,
+      "berry bush item": 1
+    }
+  },
+  "winter hat": {
+    "href": "https://dontstarve.fandom.com/wiki/Winter_Hat",
+    "req": 2,
+    "materials": {
+      "beefalo wool": 4,
+      "silk": 4
+    }
+  },
+  "walking cane": {
+    "href": "https://dontstarve.fandom.com/wiki/Walking_Cane",
+    "req": 2,
+    "materials": {
+      "gold nugget": 2,
+      "walrus tusk": 1,
+      "twigs": 4
+    }
+  },
+  "dapper vest": {
+    "href": "https://dontstarve.fandom.com/wiki/Dapper_Vest",
+    "req": 2,
+    "materials": {
+      "hound's tooth": 8,
+      "silk": 6
+    }
+  },
+  "breezy vest": {
+    "href": "https://dontstarve.fandom.com/wiki/Breezy_Vest",
+    "req": 2,
+    "materials": {
+      "koalefant trunk": 1,
+      "silk": 8
+    }
+  },
+  "puffy vest": {
+    "href": "https://dontstarve.fandom.com/wiki/Puffy_Vest",
+    "req": 2,
+    "materials": {
+      "winter koalefant trunk": 1,
+      "silk": 8,
+      "beefalo wool": 2
+    }
+  },
+  "birds of the world": {
+    "href": "https://dontstarve.fandom.com/wiki/Books#Birds_of_the_World",
+    "req": 0,
+    "materials": null
+  },
+  "applied horticulture": {
+    "href": "https://dontstarve.fandom.com/wiki/Books#Applied_Horticulture",
+    "req": 0,
+    "materials": null
+  },
+  "on tentacles": {
+    "href": "https://dontstarve.fandom.com/wiki/Books#On_Tentacles",
+    "req": 2,
+    "materials": null
+  },
+  "sleepytime stories": {
+    "href": "https://dontstarve.fandom.com/wiki/Books#Sleepytime_Stories",
+    "req": 3,
+    "materials": null
+  },
+  "the end is nigh": {
+    "href": "https://dontstarve.fandom.com/wiki/Books#The_End_is_Nigh",
+    "req": 4,
+    "materials": null
+  },
+  "spectoggles": {
+    "href": "https://dontstarve.fandom.com/wiki/Spectoggles",
+    "req": 0,
+    "materials": {
+      "gold nugget": 1,
+      "pig skin": 1
+    }
+  },
+  "infroggles": {
+    "href": "https://dontstarve.fandom.com/wiki/Infroggles",
+    "req": 0,
+    "materials": {
+      "spectoggles": 1,
+      "electrical doodad": 1,
+      "torch": 2
+    }
+  },
+  "visor": {
+    "href": "https://dontstarve.fandom.com/wiki/Visor",
+    "req": 0,
+    "materials": {
+      "spectoggles": 1,
+      "cut stone": 1,
+      "wagstaff": null
+    }
+  },
+  "fryfocals": {
+    "href": "https://dontstarve.fandom.com/wiki/Fryfocals",
+    "req": 0,
+    "materials": {
+      "spectoggles": 1,
+      "red gem": 1,
+      "wagstaff portrait": null
+    }
+  },
+  "telebrella": {
+    "href": "https://dontstarve.fandom.com/wiki/Telebrella",
+    "req": 0,
+    "materials": {
+      "electrical doodad": 1,
+      "pretty parasol": 1,
+      "wagstaff": null
+    }
+  },
+  "telipad": {
+    "href": "https://dontstarve.fandom.com/wiki/Telipad",
+    "req": 0,
+    "materials": {
+      "gears": 1,
+      "electrical doodad": 1,
+      "cut stone": 2,
+      "wagstaff": null
+    }
+  },
+  "thumper": {
+    "href": "https://dontstarve.fandom.com/wiki/Thumper",
+    "req": 0,
+    "materials": {
+      "gears": 1,
+      "flint": 6,
+      "hammer": 2,
+      "wagstaff": null
+    }
+  },
+  "electrical doodad": {
+    "href": "https://dontstarve.fandom.com/wiki/Electrical_Doodad",
+    "req": 0,
+    "materials": {
+      "gold nugget": 2,
+      "cut stone": 1,
+      "wagstaff": null
+    }
+  },
+  "thulecite": {
+    "href": "https://dontstarve.fandom.com/wiki/Thulecite",
+    "req": 5,
+    "materials": {
+      "thulecite fragments": 6
+    }
+  },
+  "thulecite wall": {
+    "href": "https://dontstarve.fandom.com/wiki/Thulecite_Wall",
+    "req": 5,
+    "materials": {
+      "cut grass": 4,
+      "twigs": 2
+    }
+  },
+  "thulecite medallion": {
+    "href": "https://dontstarve.fandom.com/wiki/Thulecite_Medallion",
+    "req": 5,
+    "materials": {
+      "thulecite": 2,
+      "nightmare fuel": 2
+    }
+  },
+  "magiluminescence": {
+    "href": "https://dontstarve.fandom.com/wiki/Magiluminescence",
+    "req": 5,
+    "materials": {
+      "thulecite": 2,
+      "nightmare fuel": 3,
+      "yellow gem": 1
+    }
+  },
+  "construction amulet": {
+    "href": "https://dontstarve.fandom.com/wiki/Construction_Amulet",
+    "req": 5,
+    "materials": {
+      "thulecite": 2,
+      "nightmare fuel": 3,
+      "green gem": 1
+    }
+  },
+  "star caller's staff": {
+    "href": "https://dontstarve.fandom.com/wiki/Star_Caller%27s_Staff",
+    "req": 5,
+    "materials": {
+      "nightmare fuel": 4,
+      "living log": 2,
+      "yellow gem": 2
+    }
+  },
+  "deconstruction staff": {
+    "href": "https://dontstarve.fandom.com/wiki/Deconstruction_Staff",
+    "req": 5,
+    "materials": {
+      "nightmare fuel": 4,
+      "living log": 2,
+      "green gem": 2
+    }
+  },
+  "the lazy forager": {
+    "href": "https://dontstarve.fandom.com/wiki/The_Lazy_Forager",
+    "req": 6,
+    "materials": {
+      "thulecite": 2,
+      "nightmare fuel": 3,
+      "orange gem": 1
+    }
+  },
+  "the lazy explorer": {
+    "href": "https://dontstarve.fandom.com/wiki/The_Lazy_Explorer",
+    "req": 6,
+    "materials": {
+      "nightmare fuel": 2,
+      "walking cane": 1,
+      "orange gem": 2
+    }
+  },
+  "pick/axe": {
+    "href": "https://dontstarve.fandom.com/wiki/Pick/Axe",
+    "req": 6,
+    "materials": {
+      "luxury axe": 1,
+      "opulent pickaxe": 1,
+      "thulecite": 2
+    }
+  },
+  "thulecite club": {
+    "href": "https://dontstarve.fandom.com/wiki/Thulecite_Club",
+    "req": 6,
+    "materials": {
+      "living log": 3,
+      "thulecite": 4,
+      "nightmare fuel": 4
+    }
+  },
+  "thulecite suit": {
+    "href": "https://dontstarve.fandom.com/wiki/Thulecite_Suit",
+    "req": 6,
+    "materials": {
+      "thulecite": 6,
+      "nightmare fuel": 4
+    }
+  },
+  "thulecite crown": {
+    "href": "https://dontstarve.fandom.com/wiki/Thulecite_Crown",
+    "req": 6,
+    "materials": {
+      "thulecite": 4,
+      "nightmare fuel": 4
+    }
+  },
+  "houndius shootius": {
+    "href": "https://dontstarve.fandom.com/wiki/Houndius_Shootius",
+    "req": 6,
+    "materials": {
+      "guardian's horn": 1,
+      "deerclops eyeball": 1,
+      "thulecite": 5
+    }
+  }
+}
